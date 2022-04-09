@@ -1,0 +1,105 @@
+{
+  "status": 200,
+  "message": "请求成功",
+  "data": {
+    "pageNum": 1,
+    "pageSize": 10,
+    "size": 10,
+    "startRow": 1,
+    "endRow": 10,
+    "total": 12,
+    "pages": 2,
+    "list": [
+      {
+        "id": 556,
+        "devName": "ceshi123",
+        "devCode": "123",
+        "appKey": "123",
+        "encryptType": "3DES",
+        "status": 1
+      },
+      {
+        "id": 555,
+        "devName": "开发者06",
+        "devCode": "DEV06",
+        "appKey": "9999999999066",
+        "encryptType": "3DES",
+        "status": 1
+      },
+      {
+        "id": 554,
+        "devName": "开发者05",
+        "devCode": "DEV05",
+        "appKey": "9999999999",
+        "encryptType": "RSA",
+        "status": 1
+      },
+      {
+        "id": 553,
+        "devName": "qwe12",
+        "devCode": "12312",
+        "appKey": "qwe12",
+        "encryptType": "3DES",
+        "status": 1
+      },
+      {
+        "id": 552,
+        "devName": "qqqqqqqqweqwe",
+        "devCode": null,
+        "appKey": "1111wwwww",
+        "encryptType": "3DES",
+        "status": 1
+      },
+      {
+        "id": 551,
+        "devName": "qweqwe",
+        "devCode": "122222",
+        "appKey": "1111",
+        "encryptType": "RSA",
+        "status": 1
+      },
+      {
+        "id": 550,
+        "devName": "驱蚊器翁",
+        "devCode": "123123111222",
+        "appKey": "2二七区翁群无",
+        "encryptType": "3DES",
+        "status": 1
+      },
+      {
+        "id": 547,
+        "devName": "开发者04",
+        "devCode": "44424",
+        "appKey": "345522",
+        "encryptType": "3DES",
+        "status": 1
+      },
+      {
+        "id": 543,
+        "devName": "开发者03",
+        "devCode": "qweqwe",
+        "appKey": "1231234",
+        "encryptType": "3DES",
+        "status": 1
+      },
+      {
+        "id": 542,
+        "devName": "开发者01",
+        "devCode": "qweqwe",
+        "appKey": "123123",
+        "encryptType": "3DES",
+        "status": 1
+      }
+    ],
+    "prePage": 0,
+    "nextPage": 2,
+    "isFirstPage": true,
+    "isLastPage": false,
+    "hasPreviousPage": false,
+    "hasNextPage": true,
+    "navigatePages": 8,
+    "navigatepageNums": [1, 2],
+    "navigateFirstPage": 1,
+    "navigateLastPage": 2
+  }
+}
